@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "producto1",
+    "descripcion": "descripcion1",
+    "precio": 500,
+    "codigo": "48976",
+    "stock": 990
+  },
+  {
+    "id": 2,
+    "nombre": "Fernet",
+    "descripcion": "Fernet Branca sabor original 750ml ",
+    "precio": 3500,
+    "codigo": "48979",
+    "stock": 987
+  }
+]
